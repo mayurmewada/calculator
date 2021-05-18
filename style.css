@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.dark-mode {
+  filter: invert(100%);
+}
+
+button {
+  height: 50;
+  width: 50;
+  border: 0;
+}
+
+.container {
+  width: 50%;
+}
