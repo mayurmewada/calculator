@@ -17,3 +17,7 @@ button {
 .container {
   width: 50%;
 }
+
+a {
+  text-align: center;
+}
